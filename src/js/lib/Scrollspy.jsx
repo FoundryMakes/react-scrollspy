@@ -13,7 +13,7 @@ export default class Scrollspy extends React.Component {
       style: PropTypes.object,
       componentTag: PropTypes.string,
       offset: PropTypes.number,
-      rootNode: PropTypes.node
+      rootNode: PropTypes.element
     }
   }
 
