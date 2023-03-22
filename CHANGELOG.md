@@ -1,3 +1,7 @@
+# 3.0.5 / 2023-03-22
+
+- Give up on proptypes and use any
+
 # 3.0.4 / 2023-03-22
 
 - Fix typo
